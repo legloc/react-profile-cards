@@ -1,8 +1,10 @@
 import './App.sass';
 
 const App = () => (
-  <div>
-    <h1>Hello world</h1>
+  <div className="wrapper">
+    <div className="profile-card"></div>
+    <div className="profile-card"></div>
+    <div className="profile-card"></div>
   </div>
 )
 
